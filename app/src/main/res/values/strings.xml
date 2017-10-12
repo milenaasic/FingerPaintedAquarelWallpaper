@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Finger Painted Aquarel</string>
+    <string name="title_activity_single_picture">SinglePicture</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">Favourite</string>
+
+    <string name="opis_sadrzaja">opis sadrzaja</string>
+    <string name="SetAs">Set As</string>
+    <string name="ShareVia">Share Via</string>
+    <string name="context_title">Picture</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
